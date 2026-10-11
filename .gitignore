@@ -1,0 +1,10 @@
+.vercel
+.next
+node_modules
+node_modules/*
+dist
+dist/*
+.env
+.DS_Store
+app/.DS_Store
+components/.DS_Store
